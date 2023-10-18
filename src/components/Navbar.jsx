@@ -1,5 +1,9 @@
 export const Navbar = () => {
     return (
+        // TODO: Do SVG logo import
+        // TODO: Do anchor tags for menu
+        // TODO: Do Dropdown for language button and theme button
+        // TODO: Add translates from i18n
         <nav className="w-full mt-3">
             <div className="flex justify-between items-center m-5 gap-[80px]">
                 <div className="w-full flex justify-center">
